@@ -1,0 +1,8 @@
+{
+    "app_id": "appgh-tivrc",
+    "config_version": 20210101,
+    "name": "AppGH",
+    "location": "US-VA",
+    "deployment_model": "GLOBAL",
+    "environment": "development"
+}

@@ -1,0 +1,10 @@
+{
+    "properties": {
+        "Test": {
+            "bsonType": "string"
+        }
+    },
+    "required": [
+        "Test"
+    ]
+}

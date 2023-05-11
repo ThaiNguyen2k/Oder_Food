@@ -1,0 +1,8 @@
+{
+    "Test": {
+        "ref": "#/relationship/mongodb-atlas/AppGH/users",
+        "source_key": "Test",
+        "foreign_key": "Test",
+        "is_list": false
+    }
+}
